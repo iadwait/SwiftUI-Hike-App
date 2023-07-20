@@ -8,8 +8,15 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    private let backgroundColor: Color = .colorWhiteLight
+    
     var body: some View {
-        CardView()
+        ZStack {
+            CardView()
+        }
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
+        .background(backgroundColor)
     }
 }
 

@@ -17,5 +17,6 @@ extension Color {
     static let customGrayMedium = Color("ColorGrayMedium")
     static let customIndigoMedium = Color("ColorIndigoMedium")
     static let customSelmonLight = Color("ColorSelmonLight")
+    static let colorWhiteLight = Color("ColorWhiteLight")
     
 }
