@@ -1,6 +1,6 @@
 # SwiftUI-Hike-App
 
-## Step to run the project
+## Steps to run the project
 - Download or Clone the Project
 - Open HikeApp.xcodeproj
 - Click on Run
